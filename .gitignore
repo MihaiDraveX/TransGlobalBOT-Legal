@@ -1,0 +1,17 @@
+# OS system files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Python cache (if ever used)
+__pycache__/
+*.pyc
+*.pyo
+
+# Node.js modules (if ever used)
+node_modules/
+
+# Env files (if ever used)
+.env
