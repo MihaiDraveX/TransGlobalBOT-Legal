@@ -11,7 +11,7 @@
 
 ## 2. Data Controller & Contact
 The operator of TransGlobalBOT is the data controller for processing described here.  
-**Contact:** **[your-email@example.com]** • Support: **[Discord Invite Link]**
+**Contact:** **[mihaidravex@outlook.com]** • Support: **[Discord Invite Link](https://discord.gg/jAA2FFctaM)**
 
 ## 3. What We Process
 Depending on which features you use, we may process:
@@ -52,4 +52,4 @@ We apply reasonable administrative, technical, and physical safeguards: HTTPS/TL
 We will update this policy as the Service evolves. Material changes will be announced on this site, and the “Effective date” will be revised.
 
 ## 12. Contact
-Questions or requests? Contact: **[your-email@example.com]** • Support: **[Discord Invite Link]**.
+Questions or requests? Contact: **[mihaidravex@outlook.com]** • Support: **[Discord Invite Link](https://discord.gg/jAA2FFctaM)**.
