@@ -44,9 +44,9 @@ You agree to defend, indemnify, and hold harmless the Service and its operators 
 You may remove the Application from your server at any time. We may suspend or terminate access for any violation of these Terms or to protect the Service or its users.
 
 ## 13. Governing Law & Dispute Resolution
-These Terms are governed by the laws of **[Your Country/State]**, without regard to conflict-of-law rules. Before formal proceedings, the parties will try to resolve disputes informally in good faith within 30 days of notice. Nothing here prevents either party from seeking urgent injunctive relief.
+These Terms are governed by the laws of **[Germany]**, without regard to conflict-of-law rules. Before formal proceedings, the parties will try to resolve disputes informally in good faith within 30 days of notice. Nothing here prevents either party from seeking urgent injunctive relief.
 
 ## 14. Contact
-For questions about these Terms, contact: **[your-email@example.com]** or join our support server: **[Discord Invite Link]**.
+For questions about these Terms, contact: **[mihaidravex@outlook.com]** or join our support server: **[Discord Invite Link](https://discord.gg/jAA2FFctaM)**.
 
 _These Terms are a template and do not constitute legal advice. Consider consulting counsel for your specific needs._
